@@ -133,6 +133,8 @@ lyalov@RedFox:/mnt/d/gitlab/terraform$ git log -S "func providerSource(" --oneli
 
 
   Кто автор функции synchronizedWriters?
+Author: Martin Atkins <mart@degeneration.co.uk>
+  
 ```bash
   lyalov@RedFox:/mnt/d/gitlab/terraform$ git log -S "func synchronizedWriters(" --oneline
 bdfea50cc8 remove unused
@@ -150,5 +152,6 @@ Date:   Wed May 3 16:25:41 2017 -0700
 
     main: synchronize writes to VT100-faker on Windows
 lyalov@RedFox:/mnt/d/gitlab/terraform$ 
+
 
 ```
